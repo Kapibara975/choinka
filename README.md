@@ -1,3 +1,4 @@
+> Projekt jest pomyślany o iluminacji choinki.
 
 > Otwórz tę stronę na [https://kapibara975.github.io/choinka/](https://kapibara975.github.io/choinka/)
 

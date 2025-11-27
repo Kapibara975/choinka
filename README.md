@@ -15,7 +15,7 @@ Aby edytować to repozytorium w MakeCode.
 
 * otwórz [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * kliknij **Importuj**, a następnie **Importuj URL**
-* wklej '''https\:\\github.com\kapibara975\choinka''' i kliknij importuj
+* wklej '''github.com\kapibara975\choinka''' i kliknij importuj
 
 #### Metadane (używane do wyszukiwania, renderowania)
 

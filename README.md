@@ -1,3 +1,5 @@
+# Projekt choinka - Microsoft MakeCode for micro:bit
+
 > Projekt jest pomyślany o iluminacji choinki.
 
 ## Użyj jako rozszerzenia
@@ -18,5 +20,3 @@ Aby edytować to repozytorium w MakeCode.
 * wklej '''
   https://github.com/kapibara975/choinka
   ''' i kliknij importuj
-
-# dd

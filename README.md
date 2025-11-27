@@ -19,7 +19,4 @@ Aby edytować to repozytorium w MakeCode.
   https://github.com/kapibara975/choinka
   ''' i kliknij importuj
 
-#### Metadane (używane do wyszukiwania, renderowania)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+# dd

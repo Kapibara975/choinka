@@ -1,10 +1,8 @@
 > Projekt jest pomyślany o iluminacji choinki.
 
-> Otwórz tę stronę na [https://kapibara975.github.io/choinka/](https://kapibara975.github.io/choinka/)
-
 ## Użyj jako rozszerzenia
 
-To repozytorium można dodać jako **rozszerzenie** w MakeCode.
+To repozytorium  wykorzystuje **rozszerzenia**, które można od razu zaimportować.
 
 * otwórz [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * kliknij na **Nowy Projekt**

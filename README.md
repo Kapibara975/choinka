@@ -8,6 +8,8 @@
 * Taśma LED (domyślnie 60 ledów)
 > Dodatkowe dla v1
 * Głośnik
+> Dla ułatwienia
+* Płytka Grove może zostać wykorzystana
 
 ## Użyj jako rozszerzenia
 

@@ -2,6 +2,13 @@
 
 > Projekt jest pomyślany o iluminacji choinki.
 
+## Co potrzebne?
+> Elementy do micro:bita v1 i v2
+* Potencjometr
+* Taśma LED (domyślnie 60 ledów)
+> Dodatkowe dla v1
+* Głośnik
+
 ## Użyj jako rozszerzenia
 
 To repozytorium  wykorzystuje **rozszerzenia**, które można od razu zaimportować.

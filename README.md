@@ -7,7 +7,7 @@ To repozytorium  wykorzystuje **rozszerzenia**, które można od razu zaimportow
 * otwórz [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * kliknij na **Nowy Projekt**
 * kliknij **Rozszerzenia** w menu oznaczonym kołem zębatym
-* szukaj **https://github.com/kapibara975/choinka** i importuj
+* szukaj **'https://github.com/kapibara975/choinka'** i importuj
 
 ## Edytuj ten projekt
 
